@@ -77,6 +77,6 @@ Regression testing is **mostly successful**, with critical features passing on m
 
 ## 8. References
 
-- [Test Cases](../test-cases/)  
-- [Bug Reports](../bug-reports/)  
-- [Test Plan](../test-plans/sample-webapp-test-plan.md)  
+- [Test Cases](https://github.com/imkataclysm/qa-manual-tests)  
+- [Bug Reports](https://github.com/imkataclysm/bug-report-samples)  
+- [Test Plan](https://github.com/imkataclysm/test-plans)  
